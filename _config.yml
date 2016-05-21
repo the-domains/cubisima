@@ -1,0 +1,28 @@
+name: cubisima
+favicon: null
+layout_spectrum: 0.9704986759461462
+typography_spectrum: 0.15336832962930202
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.45758451032452285
+  lightness: 0.21980910561978817
+  saturation: 0.1713966082315892
+  rhythmicContrast: 0.16301682754419744
+purpose: []
