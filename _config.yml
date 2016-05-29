@@ -1,29 +1,41 @@
-name: cubisima
-favicon: null
-layout_spectrum: 0.9704986759461462
-typography_spectrum: 0.15336832962930202
 title: El Portal Suiza para la Familia Cubana
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.6478545
+  brandStrength: 0.8423507
+  lightness: 0.6893657
+  brandColors:
+    - '#FFFFFF'
+    - '#030303'
+    - '#00A3EE'
+    - '#EF4B15'
+    - '#FBBB0A'
+  rhythmicContrast: 0.6623135
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: cubisima
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#fecb45'
-    - '#3daa3e'
-    - '#2375a3'
-    - '#ea0b19'
-  brandStrength: 0.625
-  lightness: 0.21980910561978817
-  saturation: 0.3125
-  rhythmicContrast: 0.16301682754419744
-purpose: []
+typography_spectrum: 0.5918843
+layout_spectrum: 0.9085821
